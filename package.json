@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/runtime": "^7.8.3",
-    "ripple-binary-codec": "^0.1.14"
+    "ripple-binary-codec": "^2.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
