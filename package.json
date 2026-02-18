@@ -10,8 +10,8 @@
   "author": "Octillion S.A.",
   "license": "ISC",
   "dependencies": {
-    "@babel/runtime": "^7.8.3",
-    "ripple-binary-codec": "^0.1.14"
+    "@babel/runtime": "^7.26.10",
+    "ripple-binary-codec": "^2.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
